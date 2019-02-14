@@ -7,7 +7,7 @@ A fullstack community forum built with node, postgress, express, vue
 ### Client
 
 ```sh
-cd clinet
+cd client
 npm install
 npm run serve
 ```
